@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone! I'm Sahil.  
+##### I enjoy learning new things and exploring new ideas.
 
 <!--
 **bhattsahil1/bhattsahil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
