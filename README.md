@@ -1,4 +1,4 @@
-### Hi everyone! I'm Sahil Bhatt, an Undergraduate CS student at IIIT Hyderabad.  
+### Hi everyone! I'm Sahil Bhatt, a CS Master's student at IIIT Hyderabad.  
 ##### I enjoy learning new things and exploring new ideas.
 
 <!--
